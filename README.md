@@ -1,6 +1,6 @@
 # 🛡️ Smart Expense Optimizer & Fraud Detector
 
-[![Live Demo](https://img.shields.io/badge/Demo-HuggingFace-orange?style=for-the-badge&logo=huggingface)](YOUR_HUGGINGFACE_LINK_HERE)
+[![Live Demo](https://img.shields.io/badge/Demo-HuggingFace-orange?style=for-the-badge&logo=huggingface)](https://ak1409-fraud-detection-ai.hf.space)
 [![Python](https://img.shields.io/badge/Python-3.13-blue?style=for-the-badge&logo=python)](https://www.python.org/)
 [![Power BI](https://img.shields.io/badge/Dashboard-Power_BI-yellow?style=for-the-badge&logo=powerbi)](https://powerbi.microsoft.com/)
 
