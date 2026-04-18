@@ -16,7 +16,7 @@ Financial fraud is often like a needle in a haystack—rare but extremely costly
 > **Interactive Power BI Dashboard**
 > *Analyzed 280,000+ transactions to identify peak fraud windows and high-risk categories.*
 
-![Dashboard Preview](Screenshot(8).png)
+![Dashboard Preview](https://github.com/Akansha1409/expense-fraud-detector/blob/main/Screenshot%20(8).png)
 
 ### **Key Insights Identified:**
 * **Fraud Spikes:** Identified specific time windows (3 AM - 5 AM) where anomalous activity peaked.
