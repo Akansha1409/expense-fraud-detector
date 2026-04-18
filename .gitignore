@@ -1,0 +1,6 @@
+cleaned_fraud_data.csv
+"expense fraud.pbix"
+*.csv
+*.pbix
+*.zip
+__pycache__/
