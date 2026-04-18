@@ -16,7 +16,7 @@ Financial fraud is often like a needle in a haystack—rare but extremely costly
 > **Interactive Power BI Dashboard**
 > *Analyzed 280,000+ transactions to identify peak fraud windows and high-risk categories.*
 
-![Dashboard Preview](URL_TO_YOUR_SCREENSHOT_HERE)
+![Dashboard Preview](Screenshot(8).png)
 
 ### **Key Insights Identified:**
 * **Fraud Spikes:** Identified specific time windows (3 AM - 5 AM) where anomalous activity peaked.
